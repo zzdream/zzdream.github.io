@@ -1,4 +1,4 @@
-import{h as r}from"./@babel-d88a2d80.js";var t,o={exports:{}};
+import{h as r}from"./@babel-9fa0b289.js";var t,o={exports:{}};
 /*!
 	Copyright (c) 2018 Jed Watson.
 	Licensed under the MIT License (MIT), see

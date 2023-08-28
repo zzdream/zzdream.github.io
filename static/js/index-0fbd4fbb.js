@@ -1,1 +1,0 @@
-import{r as a,a as e}from"./react-7f48a8c9.js";import"./@babel-d88a2d80.js";import"./object-assign-b4dd357f.js";const s=a.memo((()=>e.createElement("div",{className:"login-container"},"微信登录")));export{s as default};
